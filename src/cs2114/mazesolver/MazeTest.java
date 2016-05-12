@@ -6,7 +6,7 @@ import student.TestCase;
 /**
  * Test class for Maze class.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version Mar 2, 2013
  */
 public class MazeTest
