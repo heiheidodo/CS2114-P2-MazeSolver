@@ -7,7 +7,7 @@ import sofia.graphics.RectangleShape;
 /**
  *  This class is create a new Tile screen
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version 2013.03.28
  */
 public class Tile
