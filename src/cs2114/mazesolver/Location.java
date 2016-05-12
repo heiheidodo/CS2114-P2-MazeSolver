@@ -5,7 +5,7 @@ package cs2114.mazesolver;
  * Write a one-sentence summary of your class here. Follow it with additional
  * details about its purpose, what abstraction it represents, and how to use it.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version Feb 20, 2013
  */
 public class Location
