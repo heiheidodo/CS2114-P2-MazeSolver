@@ -6,7 +6,7 @@ import student.TestCase;
 /**
  * Test class for Location class.
  *
- * @author Sheng Zhou (zsheng2)
+ * @author Sheng Zhou
  * @version Feb 20, 2013
  */
 
